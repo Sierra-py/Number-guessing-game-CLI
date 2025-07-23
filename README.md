@@ -2,7 +2,7 @@ Hello everyone
 <br>
 This is a simple number guessing game.
 <br>
-url - https://github.com/Sierra-py/Number-guessing-game-CLI.git
+url - https://github.com/Sierra-py/Number-guessing-game-CLI
 <br>
 How to play- <br>
 1. Select the mode [easy, medium or hard] <br>
