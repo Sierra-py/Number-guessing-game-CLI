@@ -9,7 +9,7 @@ This project was created as a fun way to reinforce Python basics and learn Git &
 
 ## 💻 Versions Included
 - ✅ **CLI Version** – Command Line Interface
-- 🖼️ **GUI Version** – Built with `tkinter` (coming soon!)
+- 🖼️ **GUI Version** – Built with `tkinter`
 
 ---
 
